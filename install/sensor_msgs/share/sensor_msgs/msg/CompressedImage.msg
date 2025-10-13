@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/src/common_interfaces/sensor_msgs/msg/CompressedImage.msg

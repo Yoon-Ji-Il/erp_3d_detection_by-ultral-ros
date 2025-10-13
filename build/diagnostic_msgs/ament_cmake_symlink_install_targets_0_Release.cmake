@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jiil/ur_ws/build/diagnostic_msgs/rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so" "TARGETS" "diagnostic_msgs__rosidl_typesupport_introspection_c__pyext" "DESTINATION" "local/lib/python3.12/dist-packages/diagnostic_msgs")

@@ -1,0 +1,9 @@
+{
+  "package_name": "shape_msgs",
+  "non_idl_tuples": [
+    "/home/jiil/ur_ws/src/common_interfaces/shape_msgs:msg/Mesh.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/shape_msgs:msg/MeshTriangle.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/shape_msgs:msg/Plane.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/shape_msgs:msg/SolidPrimitive.msg"
+  ]
+}

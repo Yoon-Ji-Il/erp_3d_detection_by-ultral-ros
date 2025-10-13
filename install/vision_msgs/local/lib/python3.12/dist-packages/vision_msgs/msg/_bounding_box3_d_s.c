@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/vision_msgs/rosidl_generator_py/vision_msgs/msg/_bounding_box3_d_s.c

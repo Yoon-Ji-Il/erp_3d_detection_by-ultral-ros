@@ -1,0 +1,33 @@
+{
+  "package_name": "sensor_msgs",
+  "non_idl_tuples": [
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/BatteryState.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/CameraInfo.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/ChannelFloat32.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/CompressedImage.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/FluidPressure.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Illuminance.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Image.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Imu.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/JointState.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Joy.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/JoyFeedback.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/JoyFeedbackArray.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/LaserEcho.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/LaserScan.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/MagneticField.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/MultiDOFJointState.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/MultiEchoLaserScan.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/NavSatFix.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/NavSatStatus.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/PointCloud.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/PointCloud2.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/PointField.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Range.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/RegionOfInterest.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/RelativeHumidity.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/Temperature.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:msg/TimeReference.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/sensor_msgs:srv/SetCameraInfo.srv"
+  ]
+}

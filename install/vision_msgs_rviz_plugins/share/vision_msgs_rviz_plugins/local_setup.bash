@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/vision_msgs_rviz_plugins/ament_cmake_environment_hooks/local_setup.bash

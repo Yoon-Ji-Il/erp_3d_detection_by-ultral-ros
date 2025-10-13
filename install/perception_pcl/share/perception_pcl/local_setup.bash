@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/perception_pcl/ament_cmake_environment_hooks/local_setup.bash

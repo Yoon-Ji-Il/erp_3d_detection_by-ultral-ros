@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/vision_msgs/rosidl_typesupport_fastrtps_c/vision_msgs/msg/detail/vision_info__rosidl_typesupport_fastrtps_c.h

@@ -1,0 +1,18 @@
+# OC-SORT tracker config for ultralytics_ros
+
+tracker_type: ocsort
+
+# 기본 파라미터들
+det_thresh: 0.3        # detection confidence threshold
+max_age: 30            # tracker에서 객체 유지 프레임 수
+min_hits: 3            # 객체가 유효하기 위해 필요한 최소 detection 횟수
+iou_threshold: 0.3     # IoU threshold for association
+delta_t: 3             # time step for velocity estimation
+asso_func: giou        # association function (iou, giou)
+
+# Kalman filter 관련
+sigma_process: 1.0
+sigma_measurement: 1.0
+
+# 디버그/출력 옵션
+verbose: false

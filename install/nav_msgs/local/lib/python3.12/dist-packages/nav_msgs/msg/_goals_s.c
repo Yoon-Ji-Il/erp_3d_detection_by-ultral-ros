@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/nav_msgs/rosidl_generator_py/nav_msgs/msg/_goals_s.c

@@ -1,0 +1,7 @@
+ultralytics
+numpy==1.26.4
+opencv-python>=4.8
+onnx>=1.16
+lapx>=0.5
+urllib3==1.26.18
+

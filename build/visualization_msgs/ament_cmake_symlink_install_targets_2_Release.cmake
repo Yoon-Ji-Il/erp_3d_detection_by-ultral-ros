@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jiil/ur_ws/build/visualization_msgs/rosidl_generator_py/visualization_msgs/visualization_msgs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so" "TARGETS" "visualization_msgs__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.12/dist-packages/visualization_msgs")

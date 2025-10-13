@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-2c06257bf18b320121db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "std_srvs__py",
+					"jsonFile" : "directory-std_srvs__py-Release-530378c06db5bf6fd55e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jiil/ur_ws/build/std_srvs/std_srvs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "std_srvs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_std_srvs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_std_srvs_egg-Release-6b9aeced55c9e2be1a78.json",
+					"name" : "ament_cmake_python_build_std_srvs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_std_srvs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_std_srvs-Release-e2b54927bfe97d9f8000.json",
+					"name" : "ament_cmake_python_symlink_std_srvs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs-Release-1f1fd3a854e08987d5b7.json",
+					"name" : "std_srvs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__cpp-Release-316b0b5f981e94f00b04.json",
+					"name" : "std_srvs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "std_srvs__py::@95623544135d7c853d6d",
+					"jsonFile" : "target-std_srvs__py-Release-abd784db99a70e4ef0fc.json",
+					"name" : "std_srvs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_generator_c-Release-d9ee4f7ca15fc0df6384.json",
+					"name" : "std_srvs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_generator_py-Release-7c6657b83b0355a00dc4.json",
+					"name" : "std_srvs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_c-Release-a06b1a469c05b51ee154.json",
+					"name" : "std_srvs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_c__pyext-Release-0c38f60aa450880cc020.json",
+					"name" : "std_srvs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_cpp-Release-e2395b111cbe40ad78b1.json",
+					"name" : "std_srvs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_fastrtps_c-Release-7d5d0ff187600da678cc.json",
+					"name" : "std_srvs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_fastrtps_c__pyext-Release-1e875e0ff21662b7cc10.json",
+					"name" : "std_srvs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_fastrtps_cpp-Release-9eb0def1c232e89c6b26.json",
+					"name" : "std_srvs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_introspection_c-Release-7242939f475527939026.json",
+					"name" : "std_srvs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_introspection_c__pyext-Release-69146c85bb0d522e7e74.json",
+					"name" : "std_srvs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs__rosidl_typesupport_introspection_cpp-Release-141fe464a7d8011cea02.json",
+					"name" : "std_srvs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "std_srvs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-std_srvs_uninstall-Release-b4d89a47ef5bc7cd63f1.json",
+					"name" : "std_srvs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-e2186663be3e182c9435.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jiil/ur_ws/build/std_srvs",
+		"source" : "/home/jiil/ur_ws/src/common_interfaces/std_srvs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

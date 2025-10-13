@@ -1,0 +1,3 @@
+/home/jiil/ur_ws/install/vision_msgs_rviz_plugins/lib/libvision_msgs_rviz_plugins.so
+/home/jiil/ur_ws/install/vision_msgs_rviz_plugins/share/vision_msgs_rviz_plugins/cmake/vision_msgs_rviz_pluginsExport.cmake
+/home/jiil/ur_ws/install/vision_msgs_rviz_plugins/share/vision_msgs_rviz_plugins/cmake/vision_msgs_rviz_pluginsExport-release.cmake

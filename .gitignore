@@ -1,0 +1,12 @@
+# 대형 모델만 제외
+*.pt
+*.db3
+src/ultralytics_ros/ros2bag/**/metadata.yaml
+*.pt
+*.db3
+*.pt
+*.db3
+*.db3
+*.db3
+*.pt
+*.db3

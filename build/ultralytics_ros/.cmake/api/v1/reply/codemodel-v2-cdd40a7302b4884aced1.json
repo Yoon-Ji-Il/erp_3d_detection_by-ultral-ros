@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-aa5f9ef86ea74a57b09a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ultralytics_ros",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tracker_with_cloud_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tracker_with_cloud_node-Release-45ec9d81bb6ef90c2f48.json",
+					"name" : "tracker_with_cloud_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros-Release-05f897d53369e54c5eb0.json",
+					"name" : "ultralytics_ros",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__cpp-Release-7af78704351107dfcf7e.json",
+					"name" : "ultralytics_ros__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_generator_c-Release-ac93995a34e8e40f9b23.json",
+					"name" : "ultralytics_ros__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_c-Release-47dd8f092102784a0995.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_cpp-Release-14b6b92e8c05a3437d13.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_fastrtps_c-Release-18a9b70fcfe87f36fd73.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_fastrtps_cpp-Release-1e189a76d66a73534aec.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_introspection_c-Release-0183a8bc047224859dd5.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros__rosidl_typesupport_introspection_cpp-Release-290516725b166ba02a46.json",
+					"name" : "ultralytics_ros__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ultralytics_ros_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ultralytics_ros_uninstall-Release-b1fc4304da5233ff768b.json",
+					"name" : "ultralytics_ros_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-4fdb942c82251168ae10.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jiil/ur_ws/build/ultralytics_ros",
+		"source" : "/home/jiil/ur_ws/src/ultralytics_ros"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

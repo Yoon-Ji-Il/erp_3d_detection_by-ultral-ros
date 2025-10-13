@@ -1,0 +1,8 @@
+{
+  "package_name": "actionlib_msgs",
+  "non_idl_tuples": [
+    "/home/jiil/ur_ws/src/common_interfaces/actionlib_msgs:msg/GoalID.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/actionlib_msgs:msg/GoalStatus.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/actionlib_msgs:msg/GoalStatusArray.msg"
+  ]
+}

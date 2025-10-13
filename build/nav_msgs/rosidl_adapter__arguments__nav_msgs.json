@@ -1,0 +1,15 @@
+{
+  "package_name": "nav_msgs",
+  "non_idl_tuples": [
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/Goals.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/GridCells.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/MapMetaData.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/OccupancyGrid.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/Odometry.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:msg/Path.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:srv/GetMap.srv",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:srv/GetPlan.srv",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:srv/LoadMap.srv",
+    "/home/jiil/ur_ws/src/common_interfaces/nav_msgs:srv/SetMap.srv"
+  ]
+}

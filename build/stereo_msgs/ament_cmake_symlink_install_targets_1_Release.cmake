@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jiil/ur_ws/build/stereo_msgs/rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so" "TARGETS" "stereo_msgs__rosidl_typesupport_fastrtps_c__pyext" "DESTINATION" "local/lib/python3.12/dist-packages/stereo_msgs")

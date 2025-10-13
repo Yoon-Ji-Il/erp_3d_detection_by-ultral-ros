@@ -1,0 +1,9 @@
+{
+  "package_name": "trajectory_msgs",
+  "non_idl_tuples": [
+    "/home/jiil/ur_ws/src/common_interfaces/trajectory_msgs:msg/JointTrajectory.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/trajectory_msgs:msg/JointTrajectoryPoint.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectory.msg",
+    "/home/jiil/ur_ws/src/common_interfaces/trajectory_msgs:msg/MultiDOFJointTrajectoryPoint.msg"
+  ]
+}

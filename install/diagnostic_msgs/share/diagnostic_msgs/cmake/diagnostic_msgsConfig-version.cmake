@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/diagnostic_msgs/ament_cmake_core/diagnostic_msgsConfig-version.cmake

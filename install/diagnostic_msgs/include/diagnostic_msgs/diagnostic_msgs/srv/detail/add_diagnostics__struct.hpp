@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/diagnostic_msgs/rosidl_generator_cpp/diagnostic_msgs/srv/detail/add_diagnostics__struct.hpp

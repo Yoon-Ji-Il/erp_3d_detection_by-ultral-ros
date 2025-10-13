@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-97b162f2b1e75763a49c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "pcl_msgs__py",
+					"jsonFile" : "directory-pcl_msgs__py-Release-05669c6b172ee735bd24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jiil/ur_ws/build/pcl_msgs/pcl_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "pcl_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_pcl_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_pcl_msgs_egg-Release-460828c1faf4465949fd.json",
+					"name" : "ament_cmake_python_build_pcl_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_pcl_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_pcl_msgs-Release-0c844aab0126f6e68da5.json",
+					"name" : "ament_cmake_python_symlink_pcl_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs-Release-0453fb9e339681e02698.json",
+					"name" : "pcl_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__cpp-Release-c33f2e71bec47018e324.json",
+					"name" : "pcl_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pcl_msgs__py::@dc86546d31c0943ba9c1",
+					"jsonFile" : "target-pcl_msgs__py-Release-d0589332fd5a8cd6cd2a.json",
+					"name" : "pcl_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_generator_c-Release-979f82747a32857d3502.json",
+					"name" : "pcl_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_generator_py-Release-d82135a2c68a444f0f9e.json",
+					"name" : "pcl_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_c-Release-a3f978895e4ea8b36efe.json",
+					"name" : "pcl_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_c__pyext-Release-7a844b9afe752b4f6512.json",
+					"name" : "pcl_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_cpp-Release-be290822f4c7e0f65f80.json",
+					"name" : "pcl_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_fastrtps_c-Release-1e767275ab03a0d2291c.json",
+					"name" : "pcl_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_fastrtps_c__pyext-Release-6064619e4c8d412c5266.json",
+					"name" : "pcl_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_fastrtps_cpp-Release-ade495c75d25f6ce1abc.json",
+					"name" : "pcl_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_introspection_c-Release-05e3b3091ed5c5e7b68d.json",
+					"name" : "pcl_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_introspection_c__pyext-Release-52f1235cab4f18400ac9.json",
+					"name" : "pcl_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs__rosidl_typesupport_introspection_cpp-Release-d0aab7079a211b04e7a9.json",
+					"name" : "pcl_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcl_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcl_msgs_uninstall-Release-1ebe7b4b77edd7a71b3c.json",
+					"name" : "pcl_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-3aa6f8387b629ebcde90.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jiil/ur_ws/build/pcl_msgs",
+		"source" : "/home/jiil/ur_ws/src/pcl_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

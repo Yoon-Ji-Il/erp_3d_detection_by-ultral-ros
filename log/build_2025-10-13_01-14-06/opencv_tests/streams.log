@@ -1,0 +1,26 @@
+[0.738s] Invoking command in '/home/jiil/ur_ws/build/opencv_tests': AMENT_PREFIX_PATH=/home/jiil/ur_ws/install/cv_bridge:/home/jiil/ur_ws/install/sensor_msgs:/home/jiil/ur_ws/install/geometry_msgs:/home/jiil/ur_ws/install/std_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jiil/ur_ws/install/cv_bridge:/home/jiil/ur_ws/install/sensor_msgs:/home/jiil/ur_ws/install/geometry_msgs:/home/jiil/ur_ws/install/std_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/jiil/ur_ws/install/cv_bridge/lib:/home/jiil/ur_ws/install/sensor_msgs/lib:/home/jiil/ur_ws/install/geometry_msgs/lib:/home/jiil/ur_ws/install/std_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jiil/ur_ws/build/opencv_tests/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jiil/ur_ws/install/opencv_tests/lib/python3.12/site-packages:/home/jiil/ur_ws/install/cv_bridge/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/sensor_msgs/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/geometry_msgs/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/std_msgs/local/lib/python3.12/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jiil/ur_ws/build/opencv_tests/build --no-deps symlink_data
+[0.984s] running develop
+[1.092s] running egg_info
+[1.092s] creating opencv_tests.egg-info
+[1.103s] writing opencv_tests.egg-info/PKG-INFO
+[1.103s] writing dependency_links to opencv_tests.egg-info/dependency_links.txt
+[1.103s] writing entry points to opencv_tests.egg-info/entry_points.txt
+[1.103s] writing requirements to opencv_tests.egg-info/requires.txt
+[1.103s] writing top-level names to opencv_tests.egg-info/top_level.txt
+[1.103s] writing manifest file 'opencv_tests.egg-info/SOURCES.txt'
+[1.124s] reading manifest file 'opencv_tests.egg-info/SOURCES.txt'
+[1.125s] writing manifest file 'opencv_tests.egg-info/SOURCES.txt'
+[1.149s] running build_ext
+[1.149s] Creating /home/jiil/ur_ws/install/opencv_tests/lib/python3.12/site-packages/opencv-tests.egg-link (link to .)
+[1.149s] Installing broadcast script to /home/jiil/ur_ws/install/opencv_tests/lib/opencv_tests
+[1.149s] Installing rosfacedetect script to /home/jiil/ur_ws/install/opencv_tests/lib/opencv_tests
+[1.149s] Installing source script to /home/jiil/ur_ws/install/opencv_tests/lib/opencv_tests
+[1.149s] 
+[1.150s] Installed /home/jiil/ur_ws/build/opencv_tests
+[1.150s] running symlink_data
+[1.150s] creating /home/jiil/ur_ws/install/opencv_tests/share/ament_index
+[1.150s] creating /home/jiil/ur_ws/install/opencv_tests/share/ament_index/resource_index
+[1.150s] creating /home/jiil/ur_ws/install/opencv_tests/share/ament_index/resource_index/packages
+[1.150s] symbolically linking /home/jiil/ur_ws/build/opencv_tests/resource/opencv_tests -> /home/jiil/ur_ws/install/opencv_tests/share/ament_index/resource_index/packages
+[1.150s] symbolically linking /home/jiil/ur_ws/build/opencv_tests/package.xml -> /home/jiil/ur_ws/install/opencv_tests/share/opencv_tests
+[1.170s] Invoked command in '/home/jiil/ur_ws/build/opencv_tests' returned '0': AMENT_PREFIX_PATH=/home/jiil/ur_ws/install/cv_bridge:/home/jiil/ur_ws/install/sensor_msgs:/home/jiil/ur_ws/install/geometry_msgs:/home/jiil/ur_ws/install/std_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jiil/ur_ws/install/cv_bridge:/home/jiil/ur_ws/install/sensor_msgs:/home/jiil/ur_ws/install/geometry_msgs:/home/jiil/ur_ws/install/std_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/jiil/ur_ws/install/cv_bridge/lib:/home/jiil/ur_ws/install/sensor_msgs/lib:/home/jiil/ur_ws/install/geometry_msgs/lib:/home/jiil/ur_ws/install/std_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jiil/ur_ws/build/opencv_tests/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jiil/ur_ws/install/opencv_tests/lib/python3.12/site-packages:/home/jiil/ur_ws/install/cv_bridge/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/sensor_msgs/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/geometry_msgs/local/lib/python3.12/dist-packages:/home/jiil/ur_ws/install/std_msgs/local/lib/python3.12/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jiil/ur_ws/build/opencv_tests/build --no-deps symlink_data

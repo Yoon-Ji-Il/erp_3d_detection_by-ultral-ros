@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/ultralytics_ros/ament_cmake_core/ultralytics_rosConfig.cmake

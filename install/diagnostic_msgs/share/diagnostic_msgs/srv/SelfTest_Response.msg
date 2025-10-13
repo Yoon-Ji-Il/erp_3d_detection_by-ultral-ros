@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/diagnostic_msgs/rosidl_cmake/srv/SelfTest_Response.msg

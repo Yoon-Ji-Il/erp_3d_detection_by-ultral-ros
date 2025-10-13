@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jiil/ur_ws/build/std_srvs/rosidl_generator_py/std_srvs/std_srvs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so" "TARGETS" "std_srvs__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.12/dist-packages/std_srvs")

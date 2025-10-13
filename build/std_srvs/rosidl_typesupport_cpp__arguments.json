@@ -1,0 +1,21 @@
+{
+  "package_name": "std_srvs",
+  "output_dir": "/home/jiil/ur_ws/build/std_srvs/rosidl_typesupport_cpp/std_srvs",
+  "template_dir": "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/Empty.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/SetBool.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/Trigger.idl"
+  ],
+  "target_dependencies": [
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/local/lib/python3.12/dist-packages/rosidl_typesupport_cpp/__init__.py",
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/home/jiil/ros2_humble/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/Empty.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/SetBool.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/Trigger.idl"
+  ]
+}

@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/ultralytics_ros/ament_cmake_environment_hooks/local_setup.zsh

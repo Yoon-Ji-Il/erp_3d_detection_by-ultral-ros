@@ -1,0 +1,1 @@
+/home/jiil/ur_ws/build/vision_msgs/rosidl_generator_py/vision_msgs/__init__.py

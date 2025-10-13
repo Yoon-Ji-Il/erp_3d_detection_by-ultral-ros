@@ -1,0 +1,28 @@
+{
+  "package_name": "std_srvs",
+  "output_dir": "/home/jiil/ur_ws/build/std_srvs/rosidl_generator_c/std_srvs",
+  "template_dir": "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/Empty.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/SetBool.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs:srv/Trigger.idl"
+  ],
+  "target_dependencies": [
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../../../local/lib/python3.12/dist-packages/rosidl_generator_c/__init__.py",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/Empty.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/SetBool.idl",
+    "/home/jiil/ur_ws/build/std_srvs/rosidl_adapter/std_srvs/srv/Trigger.idl"
+  ]
+}

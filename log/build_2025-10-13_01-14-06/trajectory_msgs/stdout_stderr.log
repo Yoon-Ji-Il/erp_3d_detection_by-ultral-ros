@@ -1,0 +1,315 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/home/jiil/ros2_humble/install/ament_cmake/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found builtin_interfaces: 1.2.2 (/home/jiil/ros2_humble/install/builtin_interfaces/share/builtin_interfaces/cmake)
+-- Found rosidl_generator_c: 3.1.7 (/home/jiil/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.7 (/home/jiil/ros2_humble/install/rosidl_adapter/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.7 (/home/jiil/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+-- Found geometry_msgs: 4.9.0 (/home/jiil/ur_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+-- Found rosidl_default_generators: 1.2.0 (/home/jiil/ros2_humble/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+-- Found ament_cmake_cppcheck: 0.12.14 (/home/jiil/ros2_humble/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+-- Found ament_cmake_cpplint: 0.12.14 (/home/jiil/ros2_humble/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+-- Found ament_cmake_uncrustify: 0.12.14 (/home/jiil/ros2_humble/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+-- Found ament_cmake_ros: 0.10.0 (/home/jiil/ros2_humble/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[33mCMake Warning (dev) at /home/jiil/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:20 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /home/jiil/ros2_humble/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+  /home/jiil/ros2_humble/install/rosidl_cmake/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+  CMakeLists.txt:25 (rosidl_generate_interfaces)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.12.3", minimum required is "3.6") 
+-- Found python_cmake_module: 0.10.0 (/home/jiil/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake)
+[33mCMake Warning (dev) at /home/jiil/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake/Modules/FindPythonExtra.cmake:52 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /home/jiil/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:23 (find_package)
+  /home/jiil/ros2_humble/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+  /home/jiil/ros2_humble/install/rosidl_cmake/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+  CMakeLists.txt:25 (rosidl_generate_interfaces)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m
+[33mCMake Warning (dev) at /home/jiil/ros2_humble/install/python_cmake_module/share/python_cmake_module/cmake/Modules/FindPythonExtra.cmake:140 (find_package):
+  Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+  are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+  the cmake_policy command to set the policy and suppress this warning.
+
+Call Stack (most recent call first):
+  /home/jiil/ros2_humble/install/rosidl_generator_py/share/rosidl_generator_py/cmake/rosidl_generator_py_generate_interfaces.cmake:23 (find_package)
+  /home/jiil/ros2_humble/install/ament_cmake_core/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake:48 (include)
+  /home/jiil/ros2_humble/install/rosidl_cmake/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:286 (ament_execute_extensions)
+  CMakeLists.txt:25 (rosidl_generate_interfaces)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+[0m
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.12.so (found suitable version "3.12.3", minimum required is "3.5") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.12
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.12.so
+-- Found PythonExtra: .so  
+-- Using numpy include directory: /usr/lib/python3/dist-packages/numpy/core/include
+-- Found ament_cmake_flake8: 0.12.14 (/home/jiil/ros2_humble/install/ament_cmake_flake8/share/ament_cmake_flake8/cmake)
+-- Found ament_cmake_pep257: 0.12.14 (/home/jiil/ros2_humble/install/ament_cmake_pep257/share/ament_cmake_pep257/cmake)
+-- Configuring done (3.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jiil/ur_ws/build/trajectory_msgs
+[  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[  3%] Built target ament_cmake_python_symlink_trajectory_msgs
+running egg_info
+creating trajectory_msgs.egg-info
+writing trajectory_msgs.egg-info/PKG-INFO
+writing dependency_links to trajectory_msgs.egg-info/dependency_links.txt
+writing top-level names to trajectory_msgs.egg-info/top_level.txt
+writing manifest file 'trajectory_msgs.egg-info/SOURCES.txt'
+[  5%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_c.dir/rosidl_generator_c/trajectory_msgs/msg/detail/joint_trajectory__functions.c.o[0m
+reading manifest file 'trajectory_msgs.egg-info/SOURCES.txt'
+writing manifest file 'trajectory_msgs.egg-info/SOURCES.txt'
+[  7%] Built target trajectory_msgs__cpp
+[  9%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_c.dir/rosidl_generator_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__functions.c.o[0m
+[  7%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_c.dir/rosidl_generator_c/trajectory_msgs/msg/detail/joint_trajectory_point__functions.c.o[0m
+[ 10%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_c.dir/rosidl_generator_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c.o[0m
+[ 14%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 14%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 16%] Built target ament_cmake_python_build_trajectory_msgs_egg
+[ 18%] [32m[1mLinking C shared library libtrajectory_msgs__rosidl_generator_c.so[0m
+[ 18%] Built target trajectory_msgs__rosidl_generator_c
+[ 20%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 23%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 21%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_msgs/msg/detail/joint_trajectory__type_support.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_msgs/msg/joint_trajectory__type_support.cpp.o[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_msgs/msg/joint_trajectory_point__type_support.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_msgs/msg/multi_dof_joint_trajectory__type_support.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/trajectory_msgs/msg/multi_dof_joint_trajectory_point__type_support.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_msgs/msg/detail/dds_fastrtps/joint_trajectory__type_support.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_msgs/msg/detail/dds_fastrtps/joint_trajectory_point__type_support.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_msgs/msg/detail/dds_fastrtps/multi_dof_joint_trajectory__type_support.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/trajectory_msgs/msg/detail/dds_fastrtps/multi_dof_joint_trajectory_point__type_support.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_msgs/msg/joint_trajectory__type_support.cpp.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_msgs/msg/joint_trajectory_point__type_support.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_msgs/msg/detail/joint_trajectory__type_support_c.cpp.o[0m
+[ 54%] [32m[1mLinking CXX shared library libtrajectory_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_msgs/msg/multi_dof_joint_trajectory_point__type_support.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/trajectory_msgs/msg/multi_dof_joint_trajectory__type_support.cpp.o[0m
+[ 58%] [32m[1mLinking CXX shared library libtrajectory_msgs__rosidl_typesupport_cpp.so[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support_c.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_msgs/msg/detail/joint_trajectory_point__type_support_c.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support_c.cpp.o[0m
+[ 65%] [32m[1mLinking CXX shared library libtrajectory_msgs__rosidl_typesupport_c.so[0m
+[ 65%] Built target trajectory_msgs__rosidl_typesupport_cpp
+[ 67%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_msgs/msg/detail/joint_trajectory__type_support.c.o[0m
+[ 69%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.c.o[0m
+[ 69%] Built target trajectory_msgs__rosidl_typesupport_introspection_cpp
+[ 69%] Built target trajectory_msgs__rosidl_typesupport_c
+[ 70%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.c.o[0m
+[ 72%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.c.o[0m
+[ 74%] [32m[1mLinking C shared library libtrajectory_msgs__rosidl_typesupport_introspection_c.so[0m
+[ 74%] Built target trajectory_msgs__rosidl_typesupport_introspection_c
+[ 76%] [32m[1mLinking CXX shared library libtrajectory_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 78%] [32m[1mLinking CXX shared library libtrajectory_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[ 78%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_cpp
+[ 78%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_c
+[ 78%] Built target trajectory_msgs
+[ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 80%] Built target trajectory_msgs__py
+[ 81%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_py.dir/rosidl_generator_py/trajectory_msgs/msg/_joint_trajectory_s.c.o[0m
+[ 83%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_py.dir/rosidl_generator_py/trajectory_msgs/msg/_multi_dof_joint_trajectory_s.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_py.dir/rosidl_generator_py/trajectory_msgs/msg/_multi_dof_joint_trajectory_point_s.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_generator_py.dir/rosidl_generator_py/trajectory_msgs/msg/_joint_trajectory_point_s.c.o[0m
+[ 89%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_msgs/libtrajectory_msgs__rosidl_generator_py.so[0m
+[ 89%] Built target trajectory_msgs__rosidl_generator_py
+[ 90%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[ 92%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/trajectory_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 96%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so[0m
+[ 96%] Built target trajectory_msgs__rosidl_typesupport_c__pyext
+[ 98%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so[0m
+[100%] Built target trajectory_msgs__rosidl_typesupport_introspection_c__pyext
+[100%] Built target trajectory_msgs__rosidl_typesupport_fastrtps_c__pyext
+-- Install configuration: "Release"
+-- Execute custom install script
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/ament_index/resource_index/rosidl_interfaces/trajectory_msgs
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__functions.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__struct.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__functions.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__struct.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__functions.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__struct.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__struct.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory_point.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory_point.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_generator_c__visibility_control.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/library_path.sh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/library_path.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__builder.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__struct.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__traits.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__type_support.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__builder.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__struct.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__traits.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__type_support.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__builder.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__struct.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__traits.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__type_support.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__builder.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__struct.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__traits.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__type_support.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/joint_trajectory_point.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/multi_dof_joint_trajectory_point.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/joint_trajectory_point__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/include/trajectory_msgs/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/pythonpath.sh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/pythonpath.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs-4.9.0-py3.12.egg-info/PKG-INFO
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs-4.9.0-py3.12.egg-info/SOURCES.txt
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs-4.9.0-py3.12.egg-info/dependency_links.txt
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs-4.9.0-py3.12.egg-info/top_level.txt
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/__init__.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_c.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/_trajectory_msgs_s.ep.rosidl_typesupport_introspection_c.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/libtrajectory_msgs__rosidl_generator_py.so
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/__init__.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory_point.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory_point_s.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory_s.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_point.py
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_point_s.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_s.c
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_introspection_c.cpython-312-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_fastrtps_c.cpython-312-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/trajectory_msgs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectory.idl
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectoryPoint.idl
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectory.idl
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.idl
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectory.msg
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/JointTrajectoryPoint.msg
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectory.msg
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/msg/MultiDOFJointTrajectoryPoint.msg
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/ament_index/resource_index/package_run_dependencies/trajectory_msgs
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/ament_index/resource_index/parent_prefix_path/trajectory_msgs
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/ament_prefix_path.sh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/ament_prefix_path.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/path.sh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/environment/path.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.bash
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.sh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.zsh
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/local_setup.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/package.dsv
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/ament_index/resource_index/packages/trajectory_msgs
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgsConfig.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgsConfig-version.cmake
+-- Symlinking: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/package.xml
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_c.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_c.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_c.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_c.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_c.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_c.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_typesupport_cpp.so" to ""
+Listing '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/__init__.py'...
+Listing '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/__init__.py'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory.py'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_joint_trajectory_point.py'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory.py'...
+Compiling '/home/jiil/ur_ws/install/trajectory_msgs/local/lib/python3.12/dist-packages/trajectory_msgs/msg/_multi_dof_joint_trajectory_point.py'...
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_py.so
+-- Set non-toolchain portion of runtime path of "/home/jiil/ur_ws/install/trajectory_msgs/lib/libtrajectory_msgs__rosidl_generator_py.so" to ""
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_cppExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_typesupport_fastrtps_cppExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_introspection_cppExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/trajectory_msgs__rosidl_typesupport_cppExport-release.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_pyExport.cmake
+-- Installing: /home/jiil/ur_ws/install/trajectory_msgs/share/trajectory_msgs/cmake/export_trajectory_msgs__rosidl_generator_pyExport-release.cmake

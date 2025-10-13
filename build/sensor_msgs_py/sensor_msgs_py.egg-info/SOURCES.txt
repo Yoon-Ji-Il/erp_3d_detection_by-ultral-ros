@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/sensor_msgs_py
+sensor_msgs_py/__init__.py
+sensor_msgs_py/numpy_compat.py
+sensor_msgs_py/point_cloud2.py
+sensor_msgs_py.egg-info/PKG-INFO
+sensor_msgs_py.egg-info/SOURCES.txt
+sensor_msgs_py.egg-info/dependency_links.txt
+sensor_msgs_py.egg-info/requires.txt
+sensor_msgs_py.egg-info/top_level.txt
+sensor_msgs_py.egg-info/zip-safe

@@ -1,0 +1,3 @@
+source;share/ultralytics_ros/environment/ament_prefix_path.sh
+source;share/ultralytics_ros/environment/library_path.sh
+source;share/ultralytics_ros/environment/path.sh

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/jiil/ur_ws/build/shape_msgs/rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-312-x86_64-linux-gnu.so" "TARGETS" "shape_msgs__rosidl_typesupport_c__pyext" "DESTINATION" "local/lib/python3.12/dist-packages/shape_msgs")

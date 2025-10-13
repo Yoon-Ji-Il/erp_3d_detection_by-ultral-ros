@@ -1,0 +1,4 @@
+/home/jiil/ur_ws/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/JointTrajectory.idl
+/home/jiil/ur_ws/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/JointTrajectoryPoint.idl
+/home/jiil/ur_ws/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/MultiDOFJointTrajectory.idl
+/home/jiil/ur_ws/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/MultiDOFJointTrajectoryPoint.idl
